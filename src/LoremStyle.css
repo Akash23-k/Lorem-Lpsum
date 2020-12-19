@@ -74,12 +74,21 @@ li {
 }
 .content-right {
   float: right;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
-.content-right-1 {
+.content-right1 {
   text-align: right;
+  float: right;
+}
+.content-right-11 {
+  float: right;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 .line {
   border: 0.1px solid grey;
+}
+.lines {
+  border: 2px solid black;
 }
 .page {
   border: 0px;
@@ -92,4 +101,8 @@ li {
 }
 .a {
   border-top: 30px !important;
+}
+.fat {
+  font-size: auto;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
