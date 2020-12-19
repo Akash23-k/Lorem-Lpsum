@@ -1,0 +1,95 @@
+h1 {
+  padding: 3px;
+}
+
+.container1 {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  background-image: url(../src/Images/Fruit4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container2 {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  background-image: url(../src/Images/Fruit2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container3 {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  background-image: url(../src/Images/Fruit6.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.inner1 {
+  margin-top: 15px;
+  position: absolute;
+  top: 23%;
+  left: 5%;
+  margin-left: 0%;
+  margin-bottom: 90%;
+  height: 200px;
+}
+.inner2 {
+  margin-top: 15px;
+  position: absolute;
+  top: 23%;
+  left: 68%;
+  margin-left: 0%;
+  margin-bottom: 90%;
+  height: 200px;
+}
+.inner3 {
+  margin-top: 15px;
+  position: absolute;
+  top: 23%;
+  left: 5%;
+  margin-left: 0%;
+  margin-bottom: 90%;
+  height: 200px;
+}
+h1 {
+  font-size: x-large;
+}
+.Nutrition,
+.Calories {
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.Serving,
+.Amount {
+  font-size: medium;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+li {
+  font-size: xx-large;
+  color: rgb(0, 119, 255);
+}
+.content-right {
+  float: right;
+}
+.content-right-1 {
+  text-align: right;
+}
+.line {
+  border: 0.1px solid grey;
+}
+.page {
+  border: 0px;
+  border-radius: 16px;
+  box-shadow: 20px;
+}
+.vl {
+  border-left: 3px solid black;
+  height: 60px;
+}
+.a {
+  border-top: 30px !important;
+}
