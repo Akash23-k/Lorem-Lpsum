@@ -8,20 +8,20 @@ const Lorem = () => {
                 <h1 className="vl" >  &nbsp;Healthy Fruits</h1>
                         <div className="container1">
                                 <div className="inner1">
-                                 <h1> Lorem Lpsum</h1>
-                                        <p>Lorem lpsum is simply dummy text of the <br/> printing and type setting industry. </p>
+                                 <h1 className="title"> Lorem Lpsum</h1>
+                                        <p className="title1">Lorem lpsum is simply dummy text of the <br/> printing and type setting industry. </p>
                                                 </div> 
                                                         </div>
                         <div className="container2">
                                 <div className="inner2">
-                                        <h1> Lorem Lpsum</h1>
-                                                <p>Lorem lpsum is simply dummy text of the <br/> printing and type setting industry. Lorem  <br/>lpsum has been the industry standard </p>
+                                        <h1 className="title"> Lorem Lpsum</h1>
+                                                <p className="title1">Lorem lpsum is simply dummy text of the <br/> printing and type setting industry. Lorem  <br/>lpsum has been the industry standard </p>
                                                         </div> 
                                                                 </div>
                          <div className="container3">
                                 <div className="inner3">
-                                         <h1> Lorem Lpsum</h1>
-                                                <p>Lorem lpsum is simply dummy text of the <br/> printing and type setting industry. </p>
+                                         <h1 className="title" > Lorem Lpsum</h1>
+                                                <p className="title1">Lorem lpsum is simply dummy text of the <br/> printing and type setting industry. Lorem </p>
                                                         </div> 
                                                                 </div>
                 <div className="page">
@@ -47,17 +47,17 @@ const Lorem = () => {
                         </div>
                         
                
-                <span className="fat"> Total fat</span>  <span>  0.3g</span>    <span className="content-right"> 0%</span>  <hr className="line"/>
+                <span className="Health"> Total fat</span>  <span>  0.3g</span>    <span className="content-right"> 0%</span>  <hr className="line"/>
                 <p> Saturated fat 0.1g <span className="content-right"> 0%</span> <hr className="line"/></p>
-                <span className="fat"> Sodium</span> <span>  1mg</span>  <span className="content-right"> 0%</span> <hr className="line"/> 
-                <span className="fat"> Total Carbohydrate</span> <span>  23g</span> <span className="content-right"> 8%</span> <hr className="line"/> 
-                <p> Dietary fiber 2.6g <span className="content-right"> 9%</span> <hr className="line"/></p>
-                <p> Sugar 12g  <hr className="line"/></p>
-                <p > Protein 1.1g  <span className="content-right"> 2%</span><hr className="lines"/></p>
-                <p> Vitamin D 0.00mcg <span className="content-right1"> 0%</span> <hr className="line"/></p>
-                <p> Calcium 5.00mg <span className="content-right1"> 0%</span><hr className="line"/> </p>
-                <p> Iron 0.26mg <span className="content-right1"> 1%</span><hr className="line"/></p>
-                <p> Potassium 358mg <span className="content-right1"> 8%</span><hr  className="lines"/> </p>
+                <span className="Health"> Sodium</span> <span>  1mg</span>  <span className="content-right"> 0%</span> <hr className="line"/> 
+                <span className="Health"> Total Carbohydrate</span> <span>  23g</span> <span className="content-right"> 8%</span> <hr className="line"/> 
+                <span className="Health1">  Dietary fiber 2.6g</span> <span className="content-right"> 9%</span> <hr className="line"/>
+                <span className="Health1"> Sugar 12g  <hr className="line"/></span>
+                <span className="Health"> Protein  </span> 1.1g<span className="content-right"> 2%</span><hr className="lines"/>
+                <span className="Health1">  Vitamin D 0.00mcg </span> <span className="content-right1"> 0%</span> <hr className="line"/>
+                <span className="Health1"> Calcium 5.00mg</span> <span className="content-right1"> 0%</span><hr className="line"/> 
+                 <span className="Health1">  Iron 0.26mg </span> <span className="content-right1"> 1%</span><hr className="line"/>
+                 <span className="Health1">  Potassium 358mg </span> <span className="content-right1"> 8%</span><hr  className="lines"/> 
                 
                  
                 <li>Delivering with love and care for you to relish</li>

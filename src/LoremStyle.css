@@ -1,5 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
 h1 {
   padding: 3px;
+}
+.title {
+  font-family: "Lobster", cursive;
+  font-size: 60px;
+}
+.title1 {
+  font-family: "Roboto", sans-serif;
 }
 
 .container1 {
@@ -57,15 +67,18 @@ h1 {
 h1 {
   font-size: x-large;
 }
-.Nutrition,
+.Nutrition {
+  font-size: x-large;
+  font-family: "Roboto", sans-serif;
+}
 .Calories {
+  font-family: "Roboto", sans-serif;
   font-size: xx-large;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 .Serving,
 .Amount {
   font-size: medium;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 li {
@@ -74,7 +87,7 @@ li {
 }
 .content-right {
   float: right;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .content-right1 {
   text-align: right;
@@ -82,7 +95,7 @@ li {
 }
 .content-right-11 {
   float: right;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .line {
   border: 0.1px solid grey;
@@ -102,7 +115,10 @@ li {
 .a {
   border-top: 30px !important;
 }
-.fat {
-  font-size: auto;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+.Health {
+  font-size: medium;
+  font-family: "Roboto", sans-serif;
+}
+.Health1 {
+  font-size: medium;
 }
