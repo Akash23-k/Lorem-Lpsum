@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Lorem-lpsum/static/css/main.231bbd0b.chunk.css",
+    "main.js": "/Lorem-lpsum/static/js/main.ef9d7c50.chunk.js",
+    "main.js.map": "/Lorem-lpsum/static/js/main.ef9d7c50.chunk.js.map",
+    "runtime-main.js": "/Lorem-lpsum/static/js/runtime-main.e32f0295.js",
+    "runtime-main.js.map": "/Lorem-lpsum/static/js/runtime-main.e32f0295.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Lorem-lpsum/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c2657d73.chunk.js": "/Lorem-lpsum/static/js/2.c2657d73.chunk.js",
+    "static/js/2.c2657d73.chunk.js.map": "/Lorem-lpsum/static/js/2.c2657d73.chunk.js.map",
+    "static/js/3.e4eaf312.chunk.js": "/Lorem-lpsum/static/js/3.e4eaf312.chunk.js",
+    "static/js/3.e4eaf312.chunk.js.map": "/Lorem-lpsum/static/js/3.e4eaf312.chunk.js.map",
+    "index.html": "/Lorem-lpsum/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Lorem-lpsum/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.231bbd0b.chunk.css.map": "/Lorem-lpsum/static/css/main.231bbd0b.chunk.css.map",
+    "static/js/2.c2657d73.chunk.js.LICENSE.txt": "/Lorem-lpsum/static/js/2.c2657d73.chunk.js.LICENSE.txt",
+    "static/media/LoremStyle.css": "/Lorem-lpsum/static/media/Fruit6.ea26e405.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e32f0295.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c2657d73.chunk.js",
+    "static/css/main.231bbd0b.chunk.css",
+    "static/js/main.ef9d7c50.chunk.js"
+  ]
+}
