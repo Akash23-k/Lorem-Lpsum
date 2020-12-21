@@ -66,9 +66,9 @@ const Lorem = () => {
                                 <h3> About Demo Group </h3>
                                         <p>Leading the Crops Division for Demo Group is India's best branded fruit company and a market leader in 
                                         controlled cultivation and marketing of high-quality fruits to domestic and international customers in
-                                        a socially responsible manner.We are happy to serve fresh and delicious fruits.
+                                        a socially responsible manner.  <br/> <br/> We are happy to serve fresh and delicious fruits.<br/><br/>
                                         </p>
-                                                <br/>
+                                               
                                                 <br/>
                                                         <hr className="lines"/> 
                                                                 </div>
